@@ -1,4 +1,4 @@
 rabbitmq
 ========
 
-Just testing [RabbitMQ] (https://www.rabbitmq.com/)
+Just testing [RabbitMQ](https://www.rabbitmq.com/)
